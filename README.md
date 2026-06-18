@@ -137,7 +137,7 @@ nano ytmusic_downloader.py
 python3 ytmusic_downloader.py "<YouTube Music Playlist URL>"
 
 # Album downloader
-python3 ytmusic_album_downloader.py "<YouTube Album URL>"
+python3 ytmusic_downloader.py "<YouTube Album URL>"
 
 # Individual track downloader
 python3 ytmusic_downloader.py "<YouTube Music Track URL>"
